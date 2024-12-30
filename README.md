@@ -2,23 +2,17 @@
 <h1 align="center"></h1>
 kadeusz ● he/him
 
-silly 16yo boy from poland
-javascript enjoyer 
-scared of people irl xddddd
+  silly 16yo boy from poland<br>
+  javascript enjoyer<br>
+  scared of people irl xddddd
+
 
 Programming languages I know:
-javascript
-<!--
-**kadeusz111/kadeusz111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* javascript<br>
 
-Here are some ideas to get you started:
+Programming languages I am learning:
+* css
+* html
+* python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
