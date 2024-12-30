@@ -13,6 +13,7 @@ Programming languages I know:
 Programming languages I am learning:
 * css
 * html
-* python
+* python<br>
 
+if you need to find me add me on discord: kadeusz
 
