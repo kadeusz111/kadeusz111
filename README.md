@@ -1,4 +1,4 @@
-![banner](https://cdn.discordapp.com/attachments/1287174037830893591/1323089687887478814/5eafaaad59ad101775afb0e79039b238.png?ex=67733ecb&is=6771ed4b&hm=cc011e34ade64f3ebe3eb5d0b9f5633ac6379a43a40d6ad9e1464970115be5af&)
+![banner](https://kadeusz.fun/assets/5eafaaad59ad101775afb0e79039b238.png)
 <h1 align="center"></h1>
 kadeusz ● he/him
 
