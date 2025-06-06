@@ -1,4 +1,4 @@
-![banner](https://kadeusz.fun/assets/5eafaaad59ad101775afb0e79039b238.png)
+![banner](https://raw.githubusercontent.com/kadeusz111/kadeusz111/refs/heads/main/5eafaaad59ad101775afb0e79039b238.png)
 <h1 align="center"></h1>
 kadeusz ● he/him
 
