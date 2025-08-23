@@ -2,7 +2,7 @@
 <h1 align="center"></h1>
 kadeusz ● he/him
 
-  silly 16yo boy from poland<br>
+  silly 17yo boy from poland<br>
   javascript enjoyer<br>
   scared of people irl xddddd
 
