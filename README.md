@@ -9,10 +9,11 @@ kadeusz ● he/him
 
 Programming languages I know:
 * javascript<br>
-
-Programming languages I am learning:
 * css
 * html
+
+Programming languages I am learning:
+* rust
 * python<br>
 
 if you need to find me add me on discord: kadeusz
